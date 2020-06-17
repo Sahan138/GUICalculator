@@ -1,0 +1,9 @@
+D:\Documents\VS 2019\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe.config
+D:\Documents\VS 2019\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe
+D:\Documents\VS 2019\GUICalculator\GUICalculator\bin\Debug\GUICalculator.pdb
+D:\Documents\VS 2019\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csprojAssemblyReference.cache
+D:\Documents\VS 2019\GUICalculator\GUICalculator\obj\Debug\GUICalculator.Properties.Resources.resources
+D:\Documents\VS 2019\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csproj.GenerateResource.cache
+D:\Documents\VS 2019\GUICalculator\GUICalculator\obj\Debug\GUICalculator.exe
+D:\Documents\VS 2019\GUICalculator\GUICalculator\obj\Debug\GUICalculator.pdb
+D:\Documents\VS 2019\GUICalculator\GUICalculator\obj\Debug\GUICalculator.GUICalculator.resources
